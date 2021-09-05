@@ -7,7 +7,7 @@ namespace CodeWars_Problems
         static void Main(string[] args)
         {
             Console.WriteLine(HighAndLow.HighAndLowNumbers("1 4 5 7"));
-
+            Console.WriteLine(FizzBuzzSpinoff.Solution(15));
         }
     }
 }
