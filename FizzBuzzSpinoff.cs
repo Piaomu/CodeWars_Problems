@@ -8,7 +8,7 @@ namespace CodeWars_Problems
 {
     class FizzBuzzSpinoff
     {
-        //Return all the multiples of 3 or 5 below the value passed
+        //Return the sum of all the multiples of 3 or 5 below the value passed
         //into the solution.
 
 
