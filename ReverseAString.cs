@@ -21,7 +21,6 @@ namespace CodeWars_Problems
             {
                 reverseWord = reverseWord + sentence[i];
             }
-
             return reverseWord;
         }
     }
